@@ -6,24 +6,10 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring" />
-</p>
+## 🚀 Tecnologias & Ferramentas
 
-### Front-End
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-</p>
-
-### Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,html,css,js,python,git,github,vscode,idea" />
 </p>
 
 ## 📚 Atualmente estudando
