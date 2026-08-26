@@ -4,18 +4,6 @@
 
 **Java Backend · Visão Computacional aplicada a Acessibilidade**
 
-<img src="https://img.shields.io/badge/Java%20Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" alt="Java Backend" />
-<img src="https://img.shields.io/badge/Acessibilidade%20Digital-1F6FEB?style=for-the-badge&logo=accessibleicon&logoColor=white&labelColor=0D1117" alt="Acessibilidade Digital" />
-<img src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-238636?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" alt="Visão Computacional" />
-
-<a href="https://github.com/samuelmadeiro?tab=followers"><img src="https://img.shields.io/github/followers/samuelmadeiro?style=for-the-badge&color=1F6FEB&labelColor=0D1117&logo=github" alt="Seguidores no GitHub" /></a>
-<a href="mailto:samuelborbamadeiro@gmail.com"><img src="https://img.shields.io/badge/Email-samuelborbamadeiro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="E-mail" /></a>
-<img src="https://img.shields.io/badge/Brasil-UTC%20--03%3A00-238636?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Brasil, UTC -03:00" />
-
-</div>
-
-<div align="center">
-
 **[Sobre](#-sobre) · [Stack](#-stack) · [Projetos](#-projetos) · [Contato](#-contato)**
 
 </div>
