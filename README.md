@@ -16,7 +16,7 @@
 
 <div align="center">
 
-**[Sobre](#-sobre) · [Stack](#-stack) · [Projetos](#-projetos) · [Como eu trabalho](#-como-eu-trabalho) · [Números](#-números) · [Roadmap](#-roadmap) · [Contato](#-contato)**
+**[Sobre](#-sobre) · [Stack](#-stack) · [Projetos](#-projetos) · [Como eu trabalho](#-como-eu-trabalho) · [Roadmap](#-roadmap) · [Contato](#-contato)**
 
 </div>
 
@@ -30,18 +30,6 @@ de visão computacional aplicados a acessibilidade.
 Meus projetos tendem a nascer de um problema concreto: alguém precisa decidir se
 compra um negócio, alguém não consegue usar o computador com as mãos, alguém
 precisa que a máquina entenda Libras. **O código vem depois do problema.**
-
-```typescript
-const samuel: Desenvolvedor = {
-  formacao:   "Ciência da Computação — UNIESP",
-  atua_em:    ["Backend Java", "Visão computacional", "Acessibilidade digital"],
-  stack:      ["Java 25", "Spring Boot 4", "PostgreSQL", "Kafka", "Python"],
-  estudando:  ["ML aplicado", "Arquitetura orientada a eventos", "WCAG / WCAG2ICT"],
-  principio:  "Prefiro entregar menos e verdadeiro. Nenhum 'ML' que é if/else, " +
-              "nenhuma 'IA' que é template string, nenhum dataset sintético " +
-              "apresentado como real.",
-};
-```
 
 ---
 
@@ -83,7 +71,7 @@ const samuel: Desenvolvedor = {
 </p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,redis,python,fastapi,opencv,androidstudio,docker,git,github&theme=dark" alt="Ícones da stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,redis,python,fastapi,opencv,androidstudio,docker,git,github&theme=dark" alt="Ícones de Java, Spring, PostgreSQL, Kafka, Redis, Python, FastAPI, OpenCV, Android Studio, Docker, Git e GitHub" />
 </div>
 
 ---
@@ -213,36 +201,6 @@ O que aparece nos repositórios acima, e que vale mais que a lista de tecnologia
 | **O sistema declara o que ele não sabe** | `usouHeuristica: true`, `procedencia: FIXTURE`, `naoAvaliados` na resposta. Um número sem rastro de como foi obtido é pior que número nenhum |
 | **Teste no lugar de disciplina** | Invariante de arquitetura travada por ArchUnit, isolamento provado por 404 cruzado, e regra de arquitetura que ninguém viu falhar não prova nada |
 | **Limitação escrita** | Todo README tem a seção do que ainda não funciona. Gap medido e publicado é assunto de conversa; gap escondido é mentira |
-
----
-
-## 📊 Números
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/samuelmadeiro?style=for-the-badge&label=Seguidores&color=1F6FEB&labelColor=0D1117&logo=github" alt="Seguidores" />
-<img src="https://img.shields.io/badge/Reposit%C3%B3rios%20p%C3%BAblicos-7-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="7 repositórios públicos" />
-<img src="https://img.shields.io/badge/No%20GitHub%20desde-abr%202023-8957E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="No GitHub desde abril de 2023" />
-
-</div>
-
-<br />
-
-| Repositório | Linguagem | Tamanho | Último commit |
-|---|---|---|---|
-| [**accessai**](https://github.com/samuelmadeiro/accessai) | ![](https://img.shields.io/github/languages/top/samuelmadeiro/accessai?style=flat-square&label=&color=ED8B00) | ![](https://img.shields.io/github/repo-size/samuelmadeiro/accessai?style=flat-square&label=&color=0D1117) | ![](https://img.shields.io/github/last-commit/samuelmadeiro/accessai?style=flat-square&label=&color=1F6FEB) |
-| [**libras-reconhecimento**](https://github.com/samuelmadeiro/libras-reconhecimento) | ![](https://img.shields.io/github/languages/top/samuelmadeiro/libras-reconhecimento?style=flat-square&label=&color=ED8B00) | ![](https://img.shields.io/github/repo-size/samuelmadeiro/libras-reconhecimento?style=flat-square&label=&color=0D1117) | ![](https://img.shields.io/github/last-commit/samuelmadeiro/libras-reconhecimento?style=flat-square&label=&color=1F6FEB) |
-| [**comunicador-ocular**](https://github.com/samuelmadeiro/comunicador-ocular) | ![](https://img.shields.io/github/languages/top/samuelmadeiro/comunicador-ocular?style=flat-square&label=&color=3776AB) | ![](https://img.shields.io/github/repo-size/samuelmadeiro/comunicador-ocular?style=flat-square&label=&color=0D1117) | ![](https://img.shields.io/github/last-commit/samuelmadeiro/comunicador-ocular?style=flat-square&label=&color=1F6FEB) |
-| [**valorjusto**](https://github.com/samuelmadeiro/valorjusto) | ![](https://img.shields.io/github/languages/top/samuelmadeiro/valorjusto?style=flat-square&label=&color=ED8B00) | ![](https://img.shields.io/github/repo-size/samuelmadeiro/valorjusto?style=flat-square&label=&color=0D1117) | ![](https://img.shields.io/github/last-commit/samuelmadeiro/valorjusto?style=flat-square&label=&color=1F6FEB) |
-
-<div align="center">
-
-O gráfico de contribuições fica logo abaixo, na própria página do perfil — é do
-GitHub e não depende de serviço de terceiro para carregar.
-
-</div>
-
----
 
 ## 🗺 Roadmap
 
