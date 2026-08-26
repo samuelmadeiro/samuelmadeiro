@@ -61,6 +61,12 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 
 <sub>Também: JUnit 5 · Testcontainers · pytest</sub>
 
+<div align="center">
+
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=samuelmadeiro&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas nos repositórios: Java 50%, Python 31%, JavaScript 12%, HTML 3%, CSS 2%" />
+
+</div>
+
 ---
 
 ## Projetos
