@@ -16,7 +16,7 @@
 
 <div align="center">
 
-**[Sobre](#-sobre) · [Stack](#-stack) · [Projetos](#-projetos) · [Como eu trabalho](#-como-eu-trabalho) · [Roadmap](#-roadmap) · [Contato](#-contato)**
+**[Sobre](#-sobre) · [Stack](#-stack) · [Projetos](#-projetos) · [Contato](#-contato)**
 
 </div>
 
@@ -125,33 +125,6 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 
 > As decisões técnicas de cada projeto — o porquê de cada escolha e o que foi
 > descartado — estão no README do repositório.
-
----
-
-## 🧪 Como eu trabalho
-
-O que aparece nos repositórios acima, e que vale mais que a lista de tecnologias:
-
-| Prática | O que significa na prática |
-|---|---|
-| **ADR por decisão** | Cada escolha estrutural tem um arquivo com contexto, alternativas descartadas e condição de reabertura. Decisão sem dono no plano não acontece |
-| **Fatias verticais** | Uma fatia fina atravessando o sistema inteiro por vez, commitada e verde antes da próxima — nunca "todo o backend, depois todo o ML" |
-| **O sistema declara o que ele não sabe** | `usouHeuristica: true`, `procedencia: FIXTURE`, `naoAvaliados` na resposta. Um número sem rastro de como foi obtido é pior que número nenhum |
-| **Teste no lugar de disciplina** | Invariante de arquitetura travada por ArchUnit, isolamento provado por 404 cruzado, e regra de arquitetura que ninguém viu falhar não prova nada |
-| **Limitação escrita** | Todo README tem a seção do que ainda não funciona. Gap medido e publicado é assunto de conversa; gap escondido é mentira |
-
-## 🗺 Roadmap
-
-```mermaid
-graph LR
-    A[Java + Spring Boot] --> B[Arquitetura orientada a eventos]
-    A --> C[Acessibilidade digital]
-    B --> D[Observabilidade e hardening]
-    C --> E[WCAG2ICT aplicado a documento]
-    C --> F[Visão computacional assistiva]
-    F --> G[Modelos rodando on-device]
-    A --> H[ML honesto: baseline, métrica e model card]
-```
 
 ---
 
