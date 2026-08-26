@@ -70,10 +70,6 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
   <img src="https://img.shields.io/badge/Android%20nativo-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android nativo" />
 </p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,redis,python,fastapi,opencv,androidstudio,docker,git,github&theme=dark" alt="Ícones de Java, Spring, PostgreSQL, Kafka, Redis, Python, FastAPI, OpenCV, Android Studio, Docker, Git e GitHub" />
-</div>
-
 ---
 
 ## 🚀 Projetos
