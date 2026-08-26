@@ -26,13 +26,13 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 **Desenvolvimento**
 
 <p>
-  <img height="40" src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
-  <img height="40" src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" />
-  <img height="40" src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
-  <img height="40" src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
-  <img height="40" src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" />
-  <img height="40" src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" alt="OpenCV" />
-  <img height="40" src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" title="scikit-learn" alt="scikit-learn" />
+  <img height="64" src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" />
+  <img height="64" src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" />
+  <img height="64" src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
+  <img height="64" src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
+  <img height="64" src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" />
+  <img height="64" src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" alt="OpenCV" />
+  <img height="64" src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" title="scikit-learn" alt="scikit-learn" />
 </p>
 
 <sub>Também: MediaPipe · NumPy · Android nativo com CameraX e Room</sub>
@@ -40,12 +40,12 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 **Infraestrutura e DevOps**
 
 <p>
-  <img height="40" src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" />
-  <img height="40" src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" />
-  <img height="40" src="https://skillicons.dev/icons?i=kafka&theme=dark" title="Apache Kafka" alt="Apache Kafka" />
-  <img height="40" src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" />
-  <img height="40" src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
-  <img height="40" src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" />
+  <img height="64" src="https://skillicons.dev/icons?i=postgresql&theme=dark" title="PostgreSQL" alt="PostgreSQL" />
+  <img height="64" src="https://skillicons.dev/icons?i=sqlite&theme=dark" title="SQLite" alt="SQLite" />
+  <img height="64" src="https://skillicons.dev/icons?i=kafka&theme=dark" title="Apache Kafka" alt="Apache Kafka" />
+  <img height="64" src="https://skillicons.dev/icons?i=redis&theme=dark" title="Redis" alt="Redis" />
+  <img height="64" src="https://skillicons.dev/icons?i=docker&theme=dark" title="Docker" alt="Docker" />
+  <img height="64" src="https://skillicons.dev/icons?i=githubactions&theme=dark" title="GitHub Actions" alt="GitHub Actions" />
 </p>
 
 <sub>Também: Flyway para migration versionada</sub>
@@ -53,10 +53,10 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 **Ferramentas**
 
 <p>
-  <img height="40" src="https://skillicons.dev/icons?i=idea&theme=dark" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
-  <img height="40" src="https://skillicons.dev/icons?i=maven&theme=dark" title="Maven" alt="Maven" />
-  <img height="40" src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
-  <img height="40" src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
+  <img height="64" src="https://skillicons.dev/icons?i=idea&theme=dark" title="IntelliJ IDEA" alt="IntelliJ IDEA" />
+  <img height="64" src="https://skillicons.dev/icons?i=maven&theme=dark" title="Maven" alt="Maven" />
+  <img height="64" src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" />
+  <img height="64" src="https://skillicons.dev/icons?i=github&theme=dark" title="GitHub" alt="GitHub" />
 </p>
 
 <sub>Também: JUnit 5 · Testcontainers · pytest</sub>
