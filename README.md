@@ -107,11 +107,6 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### Estudos
-
-- **[Estudos_java](https://github.com/samuelmadeiro/Estudos_java)** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> — do básico ao avançado, documentando a evolução
-- **[ComputerToAnyone](https://github.com/samuelmadeiro/ComputerToAnyone)** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> — acessibilidade para pessoas pós-AVC
-
 > As decisões técnicas de cada projeto — o porquê de cada escolha e o que foi
 > descartado — estão no README do repositório.
 
