@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:238636&height=200&section=header&text=Samuel%20Madeiro&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20%C2%B7%20Vis%C3%A3o%20Computacional%20aplicada%20a%20Acessibilidade&descAlignY=55&descSize=16" alt="Samuel Madeiro — Java Backend e Visão Computacional aplicada a Acessibilidade" />
+# Samuel Madeiro
+
+**Java Backend · Visão Computacional aplicada a Acessibilidade**
+
+<img src="https://img.shields.io/badge/Java%20Backend-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117" alt="Java Backend" />
+<img src="https://img.shields.io/badge/Acessibilidade%20Digital-1F6FEB?style=for-the-badge&logo=accessibleicon&logoColor=white&labelColor=0D1117" alt="Acessibilidade Digital" />
+<img src="https://img.shields.io/badge/Vis%C3%A3o%20Computacional-238636?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117" alt="Visão Computacional" />
 
 <a href="https://github.com/samuelmadeiro?tab=followers"><img src="https://img.shields.io/github/followers/samuelmadeiro?style=for-the-badge&color=1F6FEB&labelColor=0D1117&logo=github" alt="Seguidores no GitHub" /></a>
 <a href="mailto:samuelborbamadeiro@gmail.com"><img src="https://img.shields.io/badge/Email-samuelborbamadeiro@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="E-mail" /></a>
@@ -214,10 +220,25 @@ O que aparece nos repositórios acima, e que vale mais que a lista de tecnologia
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelmadeiro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&icon_color=238636&count_private=true" alt="Estatísticas do GitHub de samuelmadeiro" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmadeiro&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1F6FEB&langs_count=8" alt="Linguagens mais usadas" />
+<img src="https://img.shields.io/github/followers/samuelmadeiro?style=for-the-badge&label=Seguidores&color=1F6FEB&labelColor=0D1117&logo=github" alt="Seguidores" />
+<img src="https://img.shields.io/badge/Reposit%C3%B3rios%20p%C3%BAblicos-7-238636?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="7 repositórios públicos" />
+<img src="https://img.shields.io/badge/No%20GitHub%20desde-abr%202023-8957E5?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="No GitHub desde abril de 2023" />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelmadeiro&theme=github-compact&bg_color=0D1117&color=1F6FEB&line=238636&point=FFFFFF&hide_border=true&area=true" alt="Gráfico de atividade de contribuições" />
+</div>
+
+<br />
+
+| Repositório | Linguagem | Tamanho | Último commit |
+|---|---|---|---|
+| [**accessai**](https://github.com/samuelmadeiro/accessai) | ![](https://img.shields.io/github/languages/top/samuelmadeiro/accessai?style=flat-square&label=&color=ED8B00) | ![](https://img.shields.io/github/repo-size/samuelmadeiro/accessai?style=flat-square&label=&color=0D1117) | ![](https://img.shields.io/github/last-commit/samuelmadeiro/accessai?style=flat-square&label=&color=1F6FEB) |
+| [**libras-reconhecimento**](https://github.com/samuelmadeiro/libras-reconhecimento) | ![](https://img.shields.io/github/languages/top/samuelmadeiro/libras-reconhecimento?style=flat-square&label=&color=ED8B00) | ![](https://img.shields.io/github/repo-size/samuelmadeiro/libras-reconhecimento?style=flat-square&label=&color=0D1117) | ![](https://img.shields.io/github/last-commit/samuelmadeiro/libras-reconhecimento?style=flat-square&label=&color=1F6FEB) |
+| [**comunicador-ocular**](https://github.com/samuelmadeiro/comunicador-ocular) | ![](https://img.shields.io/github/languages/top/samuelmadeiro/comunicador-ocular?style=flat-square&label=&color=3776AB) | ![](https://img.shields.io/github/repo-size/samuelmadeiro/comunicador-ocular?style=flat-square&label=&color=0D1117) | ![](https://img.shields.io/github/last-commit/samuelmadeiro/comunicador-ocular?style=flat-square&label=&color=1F6FEB) |
+| [**valorjusto**](https://github.com/samuelmadeiro/valorjusto) | ![](https://img.shields.io/github/languages/top/samuelmadeiro/valorjusto?style=flat-square&label=&color=ED8B00) | ![](https://img.shields.io/github/repo-size/samuelmadeiro/valorjusto?style=flat-square&label=&color=0D1117) | ![](https://img.shields.io/github/last-commit/samuelmadeiro/valorjusto?style=flat-square&label=&color=1F6FEB) |
+
+<div align="center">
+
+O gráfico de contribuições fica logo abaixo, na própria página do perfil — é do
+GitHub e não depende de serviço de terceiro para carregar.
 
 </div>
 
@@ -248,7 +269,5 @@ graph LR
 <br /><br />
 
 *"Prefira entregar menos e verdadeiro."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:1F6FEB,100:0D1117&height=120&section=footer" alt="" />
 
 </div>
