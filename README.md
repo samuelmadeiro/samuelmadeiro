@@ -68,13 +68,13 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 **[AccessAI](https://github.com/samuelmadeiro/accessai)** — audita a acessibilidade de documentos `.docx` e devolve um score explicável: cada ponto perdido rastreia até um problema com evidência e critério WCAG2ICT. Rule Engine determinístico, Kafka com outbox e DLT, e guardrail de IA nas duas pontas.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgresql,python,docker&theme=dark" alt="Java, Spring, Kafka, PostgreSQL, Python e Docker" />
+  <img height="32" src="https://skillicons.dev/icons?i=java,spring,kafka,postgresql,python,docker&theme=dark" alt="Java, Spring, Kafka, PostgreSQL, Python e Docker" />
 </p>
 
 **[Reconhecimento de Libras](https://github.com/samuelmadeiro/libras-reconhecimento)** — reconhece sinais de Libras pela câmera, incluindo as letras que só existem enquanto movimento (H, J, K, X, Z). Cada sinal é sequência temporal, não pose isolada, e o mesmo algoritmo roda on-device no Android.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,androidstudio,sqlite&theme=dark" alt="Python, Android Studio e SQLite" />
+  <img height="32" src="https://skillicons.dev/icons?i=python,androidstudio,sqlite&theme=dark" alt="Python, Android Studio e SQLite" />
 </p>
 
 <sub>Com MediaPipe para os pontos da mão</sub>
@@ -82,7 +82,7 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 **[Comunicador Ocular](https://github.com/samuelmadeiro/comunicador-ocular)** — controle do computador pelo olhar com webcam comum, boca como clique, para pessoas sem fala e sem movimento dos membros. Filtro One Euro escrito à mão e regressão ridge sobre a pose da cabeça.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,spring,sqlite&theme=dark" alt="Python, Spring e SQLite" />
+  <img height="32" src="https://skillicons.dev/icons?i=python,spring,sqlite&theme=dark" alt="Python, Spring e SQLite" />
 </p>
 
 <sub>Com MediaPipe FaceMesh para o rastreio do olhar</sub>
@@ -92,14 +92,14 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 **[Valor Justo](https://github.com/samuelmadeiro/valorjusto)** — avalia se vale a pena comprar uma empresa à venda no Brasil: índice de 0 a 100 com VPL, TIR e payback por trás. SQL explícito sem JPA, allowlist contra SSRF e pagamento reconferido na API do gateway.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,githubactions&theme=dark" alt="Java, Spring, PostgreSQL e GitHub Actions" />
+  <img height="32" src="https://skillicons.dev/icons?i=java,spring,postgresql,githubactions&theme=dark" alt="Java, Spring, PostgreSQL e GitHub Actions" />
 </p>
 
 ### 📚 Estudos
 
 <p>
-  <a href="https://github.com/samuelmadeiro/Estudos_java"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Ícone do Java" /></a>
-  <a href="https://github.com/samuelmadeiro/ComputerToAnyone"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Ícone do Python" /></a>
+  <a href="https://github.com/samuelmadeiro/Estudos_java"><img height="32" src="https://skillicons.dev/icons?i=java&theme=dark" alt="Ícone do Java" /></a>
+  <a href="https://github.com/samuelmadeiro/ComputerToAnyone"><img height="32" src="https://skillicons.dev/icons?i=python&theme=dark" alt="Ícone do Python" /></a>
 </p>
 
 - **[Estudos_java](https://github.com/samuelmadeiro/Estudos_java)** — do básico ao avançado, documentando a evolução
