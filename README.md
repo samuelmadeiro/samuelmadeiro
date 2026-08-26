@@ -4,7 +4,7 @@
 
 **Java Backend · Visão Computacional aplicada a Acessibilidade**
 
-**[Sobre](#-sobre) · [Stack](#-stack) · [Projetos](#-projetos) · [Contato](#-contato)**
+**[Sobre](#sobre) · [Stack](#stack) · [Projetos](#projetos) · [Contato](#contato)**
 
 </div>
 
