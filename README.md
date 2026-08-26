@@ -10,9 +10,9 @@
 
 ---
 
-## 🧭 Sobre
+## Sobre
 
-Salve! 👋 Sou Samuel, estudante de Ciência da Computação na UNIESP. Construo backend em Java e sistemas
+Sou Samuel, estudante de Ciência da Computação. Construo backend em Java e sistemas
 de visão computacional aplicados a acessibilidade.
 
 Meus projetos tendem a nascer de um problema concreto: alguém precisa decidir se
@@ -21,9 +21,9 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 
 ---
 
-## 🛠 Stack
+## Stack
 
-**💻 Desenvolvimento**
+**Desenvolvimento**
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,androidstudio,opencv,scikitlearn&theme=dark" alt="Java, Spring, Python, FastAPI, Android Studio, OpenCV e scikit-learn" />
@@ -31,7 +31,7 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 
 <sub>Também: MediaPipe · NumPy · Android nativo com CameraX e Room</sub>
 
-**🐳 Infraestrutura e DevOps**
+**Infraestrutura e DevOps**
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,sqlite,kafka,redis,docker,githubactions&theme=dark" alt="PostgreSQL, SQLite, Apache Kafka, Redis, Docker e GitHub Actions" />
@@ -39,7 +39,7 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 
 <sub>Também: Flyway para migration versionada</sub>
 
-**🧰 Ferramentas**
+**Ferramentas**
 
 <p>
   <img src="https://skillicons.dev/icons?i=idea,maven,git,github&theme=dark" alt="IntelliJ IDEA, Maven, Git e GitHub" />
@@ -49,9 +49,9 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### ♿ Acessibilidade
+### Acessibilidade
 
 **[AccessAI](https://github.com/samuelmadeiro/accessai)** — audita a acessibilidade de documentos `.docx` e devolve um score explicável: cada ponto perdido rastreia até um problema com evidência e critério WCAG2ICT. Rule Engine determinístico, Kafka com outbox e DLT, e guardrail de IA nas duas pontas.
 
@@ -82,7 +82,7 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### 💰 Backend e decisão financeira
+### Backend e decisão financeira
 
 **[Valor Justo](https://github.com/samuelmadeiro/valorjusto)** — avalia se vale a pena comprar uma empresa à venda no Brasil: índice de 0 a 100 com VPL, TIR e payback por trás. SQL explícito sem JPA, allowlist contra SSRF e pagamento reconferido na API do gateway.
 
@@ -93,7 +93,7 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### 📚 Estudos
+### Estudos
 
 - **[Estudos_java](https://github.com/samuelmadeiro/Estudos_java)** <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> — do básico ao avançado, documentando a evolução
 - **[ComputerToAnyone](https://github.com/samuelmadeiro/ComputerToAnyone)** <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> — acessibilidade para pessoas pós-AVC
@@ -103,7 +103,7 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
