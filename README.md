@@ -63,6 +63,8 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 
 <div align="center">
 
+<img src="https://helio-github-stats.vercel.app/api?username=samuelmadeiro&custom_title=GitHub+Stats&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&show_icons=true&include_all_commits=true&number_format=short" alt="Estatísticas do GitHub de samuelmadeiro: 126 commits no total, 1 pull request, 1 issue e 1 estrela recebida" />
+
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=samuelmadeiro&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Linguagens+mais+usadas" alt="Linguagens mais usadas nos repositórios: Java 50%, Python 31%, JavaScript 12%, HTML 3%, CSS 2%" />
 
 </div>
