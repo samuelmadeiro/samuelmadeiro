@@ -38,39 +38,26 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 **💻 Desenvolvimento**
 
 <p>
-  <img src="https://img.shields.io/badge/Java%2021%20e%2025-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21 e 25" />
-  <img src="https://img.shields.io/badge/Spring%20Boot%204-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Android%20nativo-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android nativo" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,androidstudio,opencv,scikitlearn&theme=dark" alt="Java, Spring, Python, FastAPI, Android Studio, OpenCV e scikit-learn" />
 </p>
+
+<sub>Também: MediaPipe · NumPy · Android nativo com CameraX e Room</sub>
 
 **🐳 Infraestrutura e DevOps**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
-  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,kafka,redis,docker,githubactions&theme=dark" alt="PostgreSQL, SQLite, Apache Kafka, Redis, Docker e GitHub Actions" />
 </p>
+
+<sub>Também: Flyway para migration versionada</sub>
 
 **🧰 Ferramentas**
 
 <p>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
-  <img src="https://img.shields.io/badge/Testcontainers-291A3B?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=idea,maven,git,github&theme=dark" alt="IntelliJ IDEA, Maven, Git e GitHub" />
 </p>
+
+<sub>Também: JUnit 5 · Testcontainers · pytest</sub>
 
 ---
 
@@ -81,47 +68,42 @@ precisa que a máquina entenda Libras. **O código vem depois do problema.**
 **[AccessAI](https://github.com/samuelmadeiro/accessai)** — audita a acessibilidade de documentos `.docx` e devolve um score explicável: cada ponto perdido rastreia até um problema com evidência e critério WCAG2ICT. Rule Engine determinístico, Kafka com outbox e DLT, e guardrail de IA nas duas pontas.
 
 <p>
-  <img src="https://img.shields.io/badge/Java%2025-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 25" />
-  <img src="https://img.shields.io/badge/Spring%20Boot%204.1-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4.1" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgresql,python,docker&theme=dark" alt="Java, Spring, Kafka, PostgreSQL, Python e Docker" />
 </p>
 
 **[Reconhecimento de Libras](https://github.com/samuelmadeiro/libras-reconhecimento)** — reconhece sinais de Libras pela câmera, incluindo as letras que só existem enquanto movimento (H, J, K, X, Z). Cada sinal é sequência temporal, não pose isolada, e o mesmo algoritmo roda on-device no Android.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=python,androidstudio,sqlite&theme=dark" alt="Python, Android Studio e SQLite" />
 </p>
+
+<sub>Com MediaPipe para os pontos da mão</sub>
 
 **[Comunicador Ocular](https://github.com/samuelmadeiro/comunicador-ocular)** — controle do computador pelo olhar com webcam comum, boca como clique, para pessoas sem fala e sem movimento dos membros. Filtro One Euro escrito à mão e regressão ridge sobre a pose da cabeça.
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=python,spring,sqlite&theme=dark" alt="Python, Spring e SQLite" />
 </p>
+
+<sub>Com MediaPipe FaceMesh para o rastreio do olhar</sub>
 
 ### 💰 Backend e decisão financeira
 
 **[Valor Justo](https://github.com/samuelmadeiro/valorjusto)** — avalia se vale a pena comprar uma empresa à venda no Brasil: índice de 0 a 100 com VPL, TIR e payback por trás. SQL explícito sem JPA, allowlist contra SSRF e pagamento reconferido na API do gateway.
 
 <p>
-  <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/CI-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,githubactions&theme=dark" alt="Java, Spring, PostgreSQL e GitHub Actions" />
 </p>
 
 ### 📚 Estudos
 
 <p>
-  <a href="https://github.com/samuelmadeiro/Estudos_java"><img src="https://img.shields.io/badge/Estudos__java-do%20b%C3%A1sico%20ao%20avan%C3%A7ado-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Estudos_java: do básico ao avançado" /></a>
-  <a href="https://github.com/samuelmadeiro/ComputerToAnyone"><img src="https://img.shields.io/badge/ComputerToAnyone-acessibilidade%20p%C3%B3s--AVC-3776AB?style=flat-square&logo=python&logoColor=white" alt="ComputerToAnyone: acessibilidade pós-AVC" /></a>
+  <a href="https://github.com/samuelmadeiro/Estudos_java"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Ícone do Java" /></a>
+  <a href="https://github.com/samuelmadeiro/ComputerToAnyone"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="40" alt="Ícone do Python" /></a>
 </p>
+
+- **[Estudos_java](https://github.com/samuelmadeiro/Estudos_java)** — do básico ao avançado, documentando a evolução
+- **[ComputerToAnyone](https://github.com/samuelmadeiro/ComputerToAnyone)** — acessibilidade para pessoas pós-AVC
 
 > As decisões técnicas de cada projeto — o porquê de cada escolha e o que foi
 > descartado — estão no README do repositório.
