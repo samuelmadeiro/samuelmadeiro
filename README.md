@@ -59,24 +59,33 @@ foi descartado e por quê.
 
 **[LiveCoding Simulator](https://github.com/samuelmadeiro/livecoding-simulator)** — simula a entrevista técnica antes dela acontecer: o candidato filtra desafios por nível de vaga, tecnologia e tipo, recebe o template e envia a solução para correção automática.
 
-<sub>**Decisões:** API stateless com JWT · três filtros opcionais resolvidos em uma única JPQL com `JOIN FETCH`, sem N+1 · correção isolada atrás de um serviço próprio, o ponto de troca para um runner em sandbox</sub>
+<sub>**Decisões:** API stateless com JWT, sem sessão no servidor · três filtros opcionais resolvidos em uma única JPQL com `JOIN FETCH`, sem N+1 · correção isolada atrás de um serviço próprio, o ponto de troca para um runner em sandbox · 16 classes de teste, da unidade à cadeia de segurança</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
   <img src="https://img.shields.io/badge/Spring%20Boot%203.3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3.3" />
-  <img src="https://img.shields.io/badge/Spring%20Security%20%2B%20JWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security e JWT" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Spring Data JPA e Hibernate" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/H2-1021FF?style=flat-square&logo=h2database&logoColor=white" alt="H2" />
+  <img src="https://img.shields.io/badge/JUnit%205%20%2B%20Mockito-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit 5 e Mockito" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
 </p>
 
 **[Valor Justo](https://github.com/samuelmadeiro/valorjusto)** — avalia se vale a pena comprar uma empresa à venda no Brasil: índice de 0 a 100 com VPL, TIR e payback por trás.
 
-<sub>**Decisões:** SQL explícito sem JPA, para enxergar cada query · allowlist contra SSRF · pagamento reconferido na API do gateway, nunca confiando no callback</sub>
+<sub>**Decisões:** SQL explícito, sem JPA, para enxergar cada query · schema versionado em Flyway · allowlist contra SSRF · pagamento reconferido na API do gateway, nunca confiando no callback · teste de integração em Postgres real via Testcontainers, rodando no CI</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Java%2021-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20JDBC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring JDBC" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+  <img src="https://img.shields.io/badge/Testcontainers-291A44?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
@@ -84,31 +93,54 @@ foi descartado e por quê.
 
 **[AccessAI](https://github.com/samuelmadeiro/accessai)** — audita a acessibilidade de documentos `.docx` e devolve um score explicável: cada ponto perdido rastreia até um problema com evidência e critério WCAG2ICT.
 
-<sub>**Decisões:** Rule Engine determinístico, com a IA fora do caminho da nota · Kafka com outbox e DLT · critérios versionados, para o score de ontem continuar reproduzível</sub>
+<sub>**Decisões:** Rule Engine determinístico, com a IA fora do caminho da nota · critérios versionados, para o score de ontem continuar reproduzível · Kafka com padrão outbox e DLT protegida por índice único contra reprocessamento · serviço de ML em Python separado do backend · ArchUnit guardando as fronteiras entre camadas</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Java%2025-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 25" />
   <img src="https://img.shields.io/badge/Spring%20Boot%204.1-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 4.1" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/OAuth2%20Resource%20Server-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" alt="OAuth2 Resource Server" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white" alt="Flyway" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Testcontainers-291A44?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 **[Comunicador Ocular](https://github.com/samuelmadeiro/comunicador-ocular)** — controle do computador pelo olhar com webcam comum, boca como clique, para pessoas sem fala e sem movimento dos membros.
 
-<sub>**Decisões:** filtro One Euro escrito à mão, para tremor sumir sem atrasar o cursor · regressão ridge sobre a pose da cabeça · perfis de calibração persistidos por usuário</sub>
+<sub>**Decisões:** filtro One Euro escrito à mão, para o tremor sumir sem atrasar o cursor · regressão ridge sobre a pose da cabeça, treinada na calibração de cada usuário · perfis de calibração persistidos pelo backend Spring Boot · voz sintetizada offline, sem depender de internet</sub>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MediaPipe%20FaceMesh-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe FaceMesh" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### Outros
+**[Reconhecimento de Libras](https://github.com/samuelmadeiro/libras-reconhecimento)** — reconhece sinais de Libras pela câmera, incluindo as letras que só existem enquanto movimento (H, J, K, X, Z).
 
-**[Reconhecimento de Libras](https://github.com/samuelmadeiro/libras-reconhecimento)** — reconhece sinais de Libras pela câmera, incluindo as letras que só existem enquanto movimento. Pipeline Python com MediaPipe e app Android nativo rodando o mesmo algoritmo on-device. <sub>`Python` · `MediaPipe` · `Android` · `SQLite`</sub>
+<sub>**Decisões:** cada sinal tratado como sequência temporal normalizada, não como pose isolada · KNN sobre os landmarks da mão, leve o bastante para rodar em tempo real · o mesmo algoritmo reescrito em Java para rodar on-device no Android, sem servidor no meio</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Android%20nativo-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android nativo" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" alt="Gradle" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+
+### Primeiros passos
+
+**[ComputerToAnyone](https://github.com/samuelmadeiro/ComputerToAnyone)** — o protótipo que deu origem ao Comunicador Ocular: um script Python controlando o cursor pelo olhar, para pessoas pós-AVC. Fica aqui como registro de onde a ideia começou. <sub>`Python` · `OpenCV` · `MediaPipe`</sub>
+
+> As decisões técnicas de cada projeto — o porquê de cada escolha e o que foi
+> descartado — estão no README do repositório.
 
 ---
 
