@@ -156,10 +156,6 @@ foi descartado e por quê.
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
-### Primeiros passos
-
-**[ComputerToAnyone](https://github.com/samuelmadeiro/ComputerToAnyone)** — o protótipo que deu origem ao Comunicador Ocular: um script Python controlando o cursor pelo olhar, para pessoas pós-AVC. Fica aqui como registro de onde a ideia começou. <sub>`Python` · `OpenCV` · `MediaPipe`</sub>
-
 > As decisões técnicas de cada projeto — o porquê de cada escolha e o que foi
 > descartado — estão no README do repositório.
 
