@@ -31,7 +31,6 @@ precisa treinar para a entrevista técnica que vem semana que vem.
   <img height="64" src="https://skillicons.dev/icons?i=spring&theme=dark" title="Spring Boot" alt="Spring Boot" />
   <img height="64" src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" />
   <img height="64" src="https://skillicons.dev/icons?i=fastapi&theme=dark" title="FastAPI" alt="FastAPI" />
-  <img height="64" src="https://skillicons.dev/icons?i=androidstudio&theme=dark" title="Android Studio" alt="Android Studio" />
   <img height="64" src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" alt="OpenCV" />
   <img height="64" src="https://skillicons.dev/icons?i=scikitlearn&theme=dark" title="scikit-learn" alt="scikit-learn" />
 </p>
