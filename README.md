@@ -2,7 +2,7 @@
 
 # Samuel Madeiro
 
-**Java Backend · Visão Computacional aplicada a Acessibilidade**
+**Backend Java · Spring Boot · APIs REST**
 
 **[Sobre](#sobre) · [Stack](#stack) · [Projetos](#projetos) · [Contato](#contato)**
 
